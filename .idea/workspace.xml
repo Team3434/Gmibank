@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e5e9411-8a3f-4bda-93f4-b08f2c937dca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/US_01_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/runners/US_01_runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/US_01_stepdef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/DatabaseUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US_01_registration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/stepDef/DragAndDropStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/stepDef/SearchStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppiumCucumber" beforeDir="false" afterPath="$PROJECT_DIR$/../AppiumCucumber" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gitreview" beforeDir="false" afterPath="$PROJECT_DIR$/../Gitreview" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GlobalTrader" beforeDir="false" afterPath="$PROJECT_DIR$/../GlobalTrader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProjectCucumberFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProjectCucumberFramework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProjectTestNG" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProjectTestNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewwCucumberFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../NewwCucumberFramework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewwTestNG" beforeDir="false" afterPath="$PROJECT_DIR$/../NewwTestNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumReviewCucumberHamza" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumReviewCucumberHamza" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumberPractice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberPracticeB3" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumberPracticeB3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fhcProject" beforeDir="false" afterPath="$PROJECT_DIR$/../fhcProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gmi_Bank_Deneme_API/gmi_Bank_Deneme_API.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gmi_bank_app" beforeDir="false" afterPath="$PROJECT_DIR$/../gmi_bank_app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycucumber3" beforeDir="false" afterPath="$PROJECT_DIR$/../mycucumber3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mytestNGframework" beforeDir="false" afterPath="$PROJECT_DIR$/../mytestNGframework" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1okpHPemhqGvFcmq6XJrBSK85hk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/gmibank/Utilities" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gmibank.stepDefinitions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\Gmibank\src\test\java\gmibank\Utilities" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e5e9411-8a3f-4bda-93f4-b08f2c937dca" name="Default Changelist" comment="" />
+      <created>1613840354388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613840354388</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="3" key="#Project_Structure" timestamp="1613841098156">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="279" y="3" key="#Project_Structure/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613841098156" />
+    <state x="546" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613841680023">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="546" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613841680023" />
+    <state x="300" y="7" key="SettingsEditor" timestamp="1613845176560">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="300" y="7" key="SettingsEditor/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613845176560" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
