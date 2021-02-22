@@ -23,6 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e5e9411-8a3f-4bda-93f4-b08f2c937dca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/Accounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/Applicants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/States.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MobileTestDemo/configuration.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/DragAndDrop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/SearchPage.java" afterDir="false" />
@@ -34,6 +39,7 @@
       <change beforePath="$PROJECT_DIR$/../AppiumCucumber" beforeDir="false" afterPath="$PROJECT_DIR$/../AppiumCucumber" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Gitreview" beforeDir="false" afterPath="$PROJECT_DIR$/../Gitreview" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GlobalTrader" beforeDir="false" afterPath="$PROJECT_DIR$/../GlobalTrader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NewProjectCucumberFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProjectCucumberFramework" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NewProjectTestNG" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProjectTestNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NewwCucumberFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../NewwCucumberFramework" afterDir="false" />
@@ -61,6 +67,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1okpHPemhqGvFcmq6XJrBSK85hk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -71,7 +78,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/gmibank/Utilities" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/Gmibank/pojos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/gmibank/pojos" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -79,9 +87,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gmibank.pojos" />
       <recent name="gmibank.stepDefinitions" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\Gmibank\src\test\java\gmibank\pojos" />
       <recent name="C:\Users\Admin\IdeaProjects\Gmibank\src\test\java\gmibank\Utilities" />
     </key>
   </component>
@@ -123,10 +133,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="467" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613857754958" />
+    <state x="579" y="146" key="FileChooserDialogImpl" timestamp="1613861363131">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="146" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613861363131" />
+    <state x="329" y="84" key="Maven.ArtifactSearchDialog" timestamp="1613982169740">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="329" y="84" key="Maven.ArtifactSearchDialog/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613982169740" />
     <state x="300" y="7" key="SettingsEditor" timestamp="1613845176560">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="300" y="7" key="SettingsEditor/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613845176560" />
+    <state x="615" y="207" key="chooseDestDirectoryDialog" timestamp="1613982057623">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="615" y="207" key="chooseDestDirectoryDialog/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613982057623" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
