@@ -23,11 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e5e9411-8a3f-4bda-93f4-b08f2c937dca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/Accounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/Applicants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/States.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MobileTestDemo/configuration.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/DragAndDrop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/SearchPage.java" afterDir="false" />
