@@ -1,7 +1,7 @@
 package gmibank.pojos;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import gmibank.runners.User;
+
 
 
 @JsonIgnoreProperties(ignoreUnknown = true)
