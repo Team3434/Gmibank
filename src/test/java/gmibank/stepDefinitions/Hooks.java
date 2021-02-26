@@ -13,7 +13,7 @@ public class Hooks {
 
     @Before
     public void setUp(){
-        Driver.getDriver().get(ConfigurationReader.getProperty("url"));
+        Driver.getDriver().get(ConfigurationReader.getProperty("GMI_Url"));
     }
     @After
     public void tearDown(Scenario scenario){

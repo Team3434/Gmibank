@@ -23,47 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e5e9411-8a3f-4bda-93f4-b08f2c937dca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/CreatNewAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/CreatNewCustomerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/CustomerListPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/ManageAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/PasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/RegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/UserSettingsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ReadTxt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/WriteToTxt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/stepDef/DragAndDropStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/stepDef/SearchStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AppiumCucumber" beforeDir="false" afterPath="$PROJECT_DIR$/../AppiumCucumber" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gitreview" beforeDir="false" afterPath="$PROJECT_DIR$/../Gitreview" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GlobalTrader" beforeDir="false" afterPath="$PROJECT_DIR$/../GlobalTrader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/US_04_StepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US_04_logInValid.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/pages/US_01_page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/pojos/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/runners/US_01_runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/US_01_stepdef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/US_01_StepDef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewProjectCucumberFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProjectCucumberFramework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewProjectTestNG" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProjectTestNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewwCucumberFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../NewwCucumberFramework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewwTestNG" beforeDir="false" afterPath="$PROJECT_DIR$/../NewwTestNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumReviewCucumberHamza" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumReviewCucumberHamza" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cucumberPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumberPractice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cucumberPracticeB3" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumberPracticeB3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fhcProject" beforeDir="false" afterPath="$PROJECT_DIR$/../fhcProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gmi_Bank_Deneme_API/gmi_Bank_Deneme_API.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gmi_bank_app" beforeDir="false" afterPath="$PROJECT_DIR$/../gmi_bank_app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mycucumber3" beforeDir="false" afterPath="$PROJECT_DIR$/../mycucumber3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytestNGframework" beforeDir="false" afterPath="$PROJECT_DIR$/../mytestNGframework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/gmibank/pojos/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/gmibank/pojos/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +49,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1okpHPemhqGvFcmq6XJrBSK85hk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -108,6 +84,34 @@
       <recent name="C:\Users\Admin\IdeaProjects\Gmibank\src\test\java\gmibank\Utilities" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Scenario: Login with valid username and password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US_04_logInValid.feature" />
+      <option name="GLUE" value="gmibank.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Gmibank34" />
+      <option name="NAME_FILTER" value="^Login with valid username and password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login with valid username and password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with valid username and password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Login with valid username and password" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
