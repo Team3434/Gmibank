@@ -14,6 +14,6 @@ import org.junit.runner.RunWith;
         tags = "@AllCustomerApi",
         dryRun = false
 )
-public class US_01_runner {
+public class Runner {
 
 }

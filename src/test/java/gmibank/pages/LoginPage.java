@@ -1,4 +1,4 @@
 package gmibank.pages;
 
-public class US_01_page {
+public class LoginPage {
 }

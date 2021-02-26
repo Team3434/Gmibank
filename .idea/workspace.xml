@@ -23,6 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e5e9411-8a3f-4bda-93f4-b08f2c937dca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/CreatNewAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/CreatNewCustomerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/CustomerListPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/ManageAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/PasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/RegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/UserSettingsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ReadTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/WriteToTxt.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MobileTestDemo/configuration.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/DragAndDrop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/SearchPage.java" afterDir="false" />
@@ -34,6 +44,14 @@
       <change beforePath="$PROJECT_DIR$/../AppiumCucumber" beforeDir="false" afterPath="$PROJECT_DIR$/../AppiumCucumber" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Gitreview" beforeDir="false" afterPath="$PROJECT_DIR$/../Gitreview" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GlobalTrader" beforeDir="false" afterPath="$PROJECT_DIR$/../GlobalTrader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/pages/US_01_page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/pojos/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/pojos/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/runners/US_01_runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/runners/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/US_01_stepdef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/US_01_StepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NewProjectCucumberFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProjectCucumberFramework" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NewProjectTestNG" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProjectTestNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NewwCucumberFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../NewwCucumberFramework" afterDir="false" />
@@ -73,7 +91,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/Gmibank/pojos" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/gmibank/pojos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -85,6 +103,7 @@
       <recent name="gmibank.stepDefinitions" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\Gmibank" />
       <recent name="C:\Users\Admin\IdeaProjects\Gmibank\src\test\java\gmibank\pojos" />
       <recent name="C:\Users\Admin\IdeaProjects\Gmibank\src\test\java\gmibank\Utilities" />
     </key>
@@ -149,7 +168,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java</url>
-          <line>125</line>
+          <line>156</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
