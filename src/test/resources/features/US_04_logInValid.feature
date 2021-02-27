@@ -7,9 +7,9 @@ Feature: Login page should accessible with valid credentials
   Scenario Outline: Login with valid username and password
 
     And User provides username "<username>" and password "<password>" and signs in
-    Then User is navigated to "<own_account_page>"
+    Then User is navigated to "<account_page>"
     Examples:
-      |username | password | own_account_page  |
+      |username | password | account_page  |
       |bbell     |Bb192837? | Bluebell Garden |
       |Erica    |Erica1* | Erica Gee |
 

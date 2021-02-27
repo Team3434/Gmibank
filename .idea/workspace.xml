@@ -23,15 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e5e9411-8a3f-4bda-93f4-b08f2c937dca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/US_04_StepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US_04_logInValid.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US_04_logInValid.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US_04_logInValid.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/test/java/gmibank/pojos/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/gmibank/pojos/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,6 +149,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="579" y="146" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613861363131" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1614378801110">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1614378801110" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1614378801110">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1614378801110" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1614378801110">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1614378801110" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1614378801110">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1614378801110" />
     <state x="329" y="84" key="Maven.ArtifactSearchDialog" timestamp="1613982169740">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
