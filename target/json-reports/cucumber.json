@@ -1,0 +1,257 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "login as an employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user clicks my operation on employee page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user clicks Manage Customer on employee page",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-02-27T09:48:05.718Z",
+        "line": 7,
+        "name": "All customers should show up on the manage customers module populating the account information of the customer",
+        "description": "",
+        "id": "manage-customer;all-customers-should-show-up-on-the-manage-customers-module-populating-the-account-information-of-the-customer",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "verify customers info populated",
+            "match": {},
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@us12"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "login as an employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user clicks my operation on employee page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user clicks Manage Customer on employee page",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-02-27T09:48:05.956Z",
+        "line": 10,
+        "name": "There should be a View option",
+        "description": "",
+        "id": "manage-customer;there-should-be-a-view-option",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "user clicks view option to see all customers all info",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "verify the edit button is displayed",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@us12"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "login as an employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user clicks my operation on employee page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user clicks Manage Customer on employee page",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-02-27T09:48:05.972Z",
+        "line": 14,
+        "name": "There should be an Edit button",
+        "description": "",
+        "id": "manage-customer;there-should-be-an-edit-button",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "user clicks Edit option to see customers all info on customer page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "user can update or create customer info on Edit portal",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@us12"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "login as an employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user clicks my operation on employee page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user clicks Manage Customer on employee page",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-02-27T09:48:05.986Z",
+        "line": 18,
+        "name": "User can delete a customer, but seeing a message if the user is sure about deletion",
+        "description": "",
+        "id": "manage-customer;user-can-delete-a-customer--but-seeing-a-message-if-the-user-is-sure-about-deletion",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 19,
+            "name": "user should clicks delete button",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "user should see message if user sure about deletion",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@us12"
+          }
+        ]
+      }
+    ],
+    "name": "Manage Customer",
+    "description": "",
+    "id": "manage-customer",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/US_12.feature",
+    "tags": [
+      {
+        "name": "@us12",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

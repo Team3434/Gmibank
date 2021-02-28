@@ -1,0 +1,38 @@
+Index: src/test/java/gmibank/runners/US_01_runner.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package gmibank.runners;\r\n\r\nimport io.cucumber.junit.Cucumber;\r\nimport io.cucumber.junit.CucumberOptions;\r\nimport org.junit.runner.RunWith;\r\n\r\n@RunWith(Cucumber.class)\r\n@CucumberOptions(strict = true,\r\n        plugin = {\"html:target/default-cucumber-reports\",\r\n                \"json:target/json-reports/cucumber.json\",\r\n                \"junit:target/xml-report/cucumber.xml\"},\r\n        features = \"features\",\r\n        glue = \"stepDefinitions\",\r\n        tags = \"@AllCustomerApi\",\r\n        dryRun = false\r\n)\r\npublic class US_01_runner {\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/test/java/gmibank/runners/US_01_runner.java b/src/test/java/gmibank/runners/US_01_runner.java
+--- a/src/test/java/gmibank/runners/US_01_runner.java	
++++ b/src/test/java/gmibank/runners/US_01_runner.java	
+@@ -9,9 +9,9 @@
+         plugin = {"html:target/default-cucumber-reports",
+                 "json:target/json-reports/cucumber.json",
+                 "junit:target/xml-report/cucumber.xml"},
+-        features = "features",
++        features = "src/test/resources/features",
+         glue = "stepDefinitions",
+-        tags = "@AllCustomerApi",
++        tags = "@us12",
+         dryRun = false
+ )
+ public class US_01_runner {
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"CompilerConfiguration\">\r\n    <annotationProcessing>\r\n      <profile name=\"Maven default annotation processors profile\" enabled=\"true\">\r\n        <sourceOutputDir name=\"target/generated-sources/annotations\" />\r\n        <sourceTestOutputDir name=\"target/generated-test-sources/test-annotations\" />\r\n        <outputRelativeToContentRoot value=\"true\" />\r\n        <module name=\"Gmibank\" />\r\n      </profile>\r\n    </annotationProcessing>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+--- a/.idea/compiler.xml	
++++ b/.idea/compiler.xml	
+@@ -6,6 +6,7 @@
+         <sourceOutputDir name="target/generated-sources/annotations" />
+         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+         <outputRelativeToContentRoot value="true" />
++        <module name="Gmibank34" />
+         <module name="Gmibank" />
+       </profile>
+     </annotationProcessing>

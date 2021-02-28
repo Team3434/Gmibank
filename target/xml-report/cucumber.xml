@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="4" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.915">
+<testcase classname="Manage Customer" name="All customers should show up on the manage customers module populating the account information of the customer" time="0.202">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given user clicks my operation on employee page.............................undefined
+Given user clicks Manage Customer on employee page..........................undefined
+Given verify customers info populated.......................................undefined
+]]></failure>
+</testcase>
+<testcase classname="Manage Customer" name="There should be a View option" time="0.008">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given user clicks my operation on employee page.............................undefined
+Given user clicks Manage Customer on employee page..........................undefined
+Given user clicks view option to see all customers all info.................undefined
+Then verify the edit button is displayed....................................undefined
+]]></failure>
+</testcase>
+<testcase classname="Manage Customer" name="There should be an Edit button" time="0.006">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given user clicks my operation on employee page.............................undefined
+Given user clicks Manage Customer on employee page..........................undefined
+Given user clicks Edit option to see customers all info on customer page....undefined
+Then user can update or create customer info on Edit portal.................undefined
+]]></failure>
+</testcase>
+<testcase classname="Manage Customer" name="User can delete a customer, but seeing a message if the user is sure about deletion" time="0.034">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given user clicks my operation on employee page.............................undefined
+Given user clicks Manage Customer on employee page..........................undefined
+Given user should clicks delete button......................................undefined
+Then user should see message if user sure about deletion....................undefined
+]]></failure>
+</testcase>
+</testsuite>
