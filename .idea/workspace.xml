@@ -23,15 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e5e9411-8a3f-4bda-93f4-b08f2c937dca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Gmibank.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/pojos/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/pojos/States.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ReusableMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +77,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\Gmibank\src\test\java\gmibank\Utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: US_04_signInValid">
+  <component name="RunManager" selected="Cucumber Java.Feature: US_05_invalidSignIn">
     <configuration name="Feature: US_04_signInValid" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US_04_signInValid.feature" />
@@ -186,8 +178,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Feature: US_04_signInValid" />
         <item itemvalue="Cucumber Java.Feature: US_05_invalidSignIn" />
+        <item itemvalue="Cucumber Java.Feature: US_04_signInValid" />
         <item itemvalue="Cucumber Java.Scenario: Login with invalid username and password" />
         <item itemvalue="Cucumber Java.Scenario: User should be given the option to navigate to registration page if they did not register yet" />
         <item itemvalue="Cucumber Java.Scenario: User with invalid credentials should be given an option to reset their password" />
@@ -206,6 +198,14 @@
       <option name="presentableId" value="Default" />
       <updated>1613840354388</updated>
     </task>
+    <task id="LOCAL-00001" summary="US4&amp;US5">
+      <created>1614744616807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614744616807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,38 +242,38 @@
     </state>
     <state x="556" y="142" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1614111447055" />
     <state x="579" y="146" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613861363131" />
-    <state width="1493" height="217" key="GridCell.Tab.0.bottom" timestamp="1614744207809">
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom" timestamp="1614791983506">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1614744207809" />
-    <state width="1493" height="217" key="GridCell.Tab.0.center" timestamp="1614744207809">
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1614791983506" />
+    <state width="1493" height="217" key="GridCell.Tab.0.center" timestamp="1614791983506">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1614744207809" />
-    <state width="1493" height="217" key="GridCell.Tab.0.left" timestamp="1614744207808">
+    <state width="1493" height="217" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1614791983506" />
+    <state width="1493" height="217" key="GridCell.Tab.0.left" timestamp="1614791983506">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1614744207808" />
-    <state width="1493" height="217" key="GridCell.Tab.0.right" timestamp="1614744207809">
+    <state width="1493" height="217" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1614791983506" />
+    <state width="1493" height="217" key="GridCell.Tab.0.right" timestamp="1614791983506">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1614744207809" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1614722722049">
+    <state width="1493" height="217" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1614791983506" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1614744825838">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1614722722049" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1614722722049">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1614744825838" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1614744825838">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1614722722049" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1614722722049">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1614744825838" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1614744825838">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1614722722049" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1614722722049">
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1614744825838" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1614744825838">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1614722722049" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1614744825838" />
     <state x="329" y="84" key="Maven.ArtifactSearchDialog" timestamp="1613982169740">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -283,6 +283,10 @@
     </state>
     <state x="288" y="7" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1614110302333" />
     <state x="300" y="7" key="SettingsEditor/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613845176560" />
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1614744660173">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1614744660173" />
     <state x="615" y="207" key="chooseDestDirectoryDialog" timestamp="1613982057623">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
