@@ -23,30 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e5e9411-8a3f-4bda-93f4-b08f2c937dca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/pages/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/stepDef/DragAndDropStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/stepDef/SearchStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MobileTestDemo/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AppiumCucumber" beforeDir="false" afterPath="$PROJECT_DIR$/../AppiumCucumber" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gitreview" beforeDir="false" afterPath="$PROJECT_DIR$/../Gitreview" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GlobalTrader" beforeDir="false" afterPath="$PROJECT_DIR$/../GlobalTrader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gmibank.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewProjectCucumberFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProjectCucumberFramework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewProjectTestNG" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProjectTestNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewwCucumberFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../NewwCucumberFramework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewwTestNG" beforeDir="false" afterPath="$PROJECT_DIR$/../NewwTestNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumReviewCucumberHamza" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumReviewCucumberHamza" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cucumberPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumberPractice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cucumberPracticeB3" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumberPracticeB3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fhcProject" beforeDir="false" afterPath="$PROJECT_DIR$/../fhcProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gmi_Bank_Deneme_API/gmi_Bank_Deneme_API.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gmi_bank_app" beforeDir="false" afterPath="$PROJECT_DIR$/../gmi_bank_app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mycucumber3" beforeDir="false" afterPath="$PROJECT_DIR$/../mycucumber3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytestNGframework" beforeDir="false" afterPath="$PROJECT_DIR$/../mytestNGframework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/pojos/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/pojos/States.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/stepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gmibank/utilities/ReusableMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +49,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1okpHPemhqGvFcmq6XJrBSK85hk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -73,23 +65,136 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/Gmibank/pojos" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/gmibank/pojos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/features" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gmibank.runners" />
       <recent name="gmibank.pojos" />
       <recent name="gmibank.stepDefinitions" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Windows 10 Pro\Gmibank\src\test\resources\features" />
       <recent name="C:\Users\Admin\IdeaProjects\Gmibank\src\test\java\gmibank\pojos" />
       <recent name="C:\Users\Admin\IdeaProjects\Gmibank\src\test\java\gmibank\Utilities" />
     </key>
   </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: US_04_signInValid">
+    <configuration name="Feature: US_04_signInValid" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US_04_signInValid.feature" />
+      <option name="GLUE" value="gmibank.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Gmibank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: US_04_signInValid" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: US_05_invalidSignIn" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US_05_invalidSignIn.feature" />
+      <option name="GLUE" value="gmibank.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Gmibank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: US_05_invalidSignIn" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login with invalid username and password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US_05_invalidSignIn.feature" />
+      <option name="GLUE" value="gmibank.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Gmibank" />
+      <option name="NAME_FILTER" value="^Login with invalid username and password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login with invalid username and password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with invalid username and password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User should be given the option to navigate to registration page if they did not register yet" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US_05_invalidSignIn.feature" />
+      <option name="GLUE" value="gmibank.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Gmibank" />
+      <option name="NAME_FILTER" value="^User should be given the option to navigate to registration page if they did not register yet$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User should be given the option to navigate to registration page if they did not register yet$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User should be given the option to navigate to registration page if they did not register yet" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User with invalid credentials should be given an option to reset their password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US_05_invalidSignIn.feature" />
+      <option name="GLUE" value="gmibank.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Gmibank" />
+      <option name="NAME_FILTER" value="^User with invalid credentials should be given an option to reset their password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User with invalid credentials should be given an option to reset their password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User with invalid credentials should be given an option to reset their password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: US_04_signInValid" />
+        <item itemvalue="Cucumber Java.Feature: US_05_invalidSignIn" />
+        <item itemvalue="Cucumber Java.Scenario: Login with invalid username and password" />
+        <item itemvalue="Cucumber Java.Scenario: User should be given the option to navigate to registration page if they did not register yet" />
+        <item itemvalue="Cucumber Java.Scenario: User with invalid credentials should be given an option to reset their password" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -115,6 +220,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="US4&amp;US5" />
+    <option name="LAST_COMMIT_MESSAGE" value="US4&amp;US5" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="279" y="3" key="#Project_Structure" timestamp="1613841098156">
       <screen x="0" y="0" width="1600" height="860" />
@@ -128,32 +237,59 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="467" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613857754958" />
-    <state x="579" y="146" key="FileChooserDialogImpl" timestamp="1613861363131">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="556" y="142" key="FileChooserDialogImpl" timestamp="1614111447055">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="556" y="142" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1614111447055" />
     <state x="579" y="146" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613861363131" />
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom" timestamp="1614744207809">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1614744207809" />
+    <state width="1493" height="217" key="GridCell.Tab.0.center" timestamp="1614744207809">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1614744207809" />
+    <state width="1493" height="217" key="GridCell.Tab.0.left" timestamp="1614744207808">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1614744207808" />
+    <state width="1493" height="217" key="GridCell.Tab.0.right" timestamp="1614744207809">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1614744207809" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1614722722049">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1614722722049" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1614722722049">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1614722722049" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1614722722049">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1614722722049" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1614722722049">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1614722722049" />
     <state x="329" y="84" key="Maven.ArtifactSearchDialog" timestamp="1613982169740">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="329" y="84" key="Maven.ArtifactSearchDialog/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613982169740" />
-    <state x="300" y="7" key="SettingsEditor" timestamp="1613845176560">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="288" y="7" key="SettingsEditor" timestamp="1614110302333">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="288" y="7" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1614110302333" />
     <state x="300" y="7" key="SettingsEditor/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613845176560" />
     <state x="615" y="207" key="chooseDestDirectoryDialog" timestamp="1613982057623">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="615" y="207" key="chooseDestDirectoryDialog/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1613982057623" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/gmibank/utilities/Driver.java</url>
-          <line>125</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="512" y="338" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1614111454265">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="512" y="338" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1614111454265" />
   </component>
 </project>

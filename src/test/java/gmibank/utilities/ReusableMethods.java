@@ -1,4 +1,6 @@
 package gmibank.utilities;
+import gmibank.pages.LoginPage;
+import org.junit.Assert;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedCondition;
@@ -11,6 +13,32 @@ import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.function.Function;
 public class ReusableMethods {
+    public static LoginPage loginPage;
+
+    //to navigate to sign in page
+    public static void loginPage() {
+        loginPage = new LoginPage();
+
+        Driver.waitAndClick(loginPage.accountDropdown, 5);
+        Driver.waitAndClick(loginPage.signinButton, 5);
+    }
+    // login with credentials
+    public static void login(String username, String password) {
+
+        Driver.waitAndSendText(loginPage.username, username, 2);
+        Driver.waitAndSendText(loginPage.password, password, 2);
+        Driver.waitAndClick(loginPage.loginButton);
+
+    }
+    // To verify user/employee is navigated to his/her own account page
+    public static void loginVerify(String expectedName){
+
+        Driver.waitForVisibility(loginPage.accountName,7);
+        String actualName=Driver.waitAndGetText(loginPage.accountName,2);
+        System.out.println("Actual name is : "+ actualName);
+        Assert.assertEquals(actualName,expectedName);
+    }
+
     //========Switching Window=====//
     public static void switchToWindow(String targetTitle) {
         String origin = Driver.getDriver().getWindowHandle();

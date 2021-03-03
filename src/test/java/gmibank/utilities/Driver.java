@@ -23,6 +23,7 @@ import static org.junit.Assert.assertTrue;
 
 public class Driver {
 
+    private static int timeout = 5;
     private Driver(){ }
     static WebDriver driver;
 
@@ -65,6 +66,64 @@ public class Driver {
             driver = null;
         }
     }
+
+
+    public static void waitAndClick(WebElement element, int timeout) {
+        for (int i = 0; i < timeout; i++) {
+            try {
+                element.click();
+                return;
+            } catch (WebDriverException e) {
+                wait(1);
+            }
+        }
+    }
+    public static void waitAndClick(WebElement element) {
+        for (int i = 0; i < timeout; i++) {
+            try {
+                element.click();
+                return;
+            } catch (WebDriverException e) {
+                wait(1);
+            }
+        }
+    }
+
+    public static void waitAndSendText(WebElement element,String text, int timeout) {
+        for (int i = 0; i < timeout; i++) {
+            try {
+                element.sendKeys(text);
+                return;
+            } catch (WebDriverException e) {
+                wait(1);
+            }
+        }
+    }
+    public static void waitAndSendTextWithDefaultTime(WebElement element,String text) {
+        for (int i = 0; i < timeout; i++) {
+            try {
+                element.sendKeys(text);
+                return;
+            } catch (WebDriverException e) {
+                wait(1);
+            }
+        }
+    }
+
+    public static String waitAndGetText(WebElement element, int timeout) {
+        String text="";
+        for (int i = 0; i < timeout; i++) {
+            try {
+                text = element.getText();
+                return text;
+            } catch (WebDriverException e) {
+                wait(1);
+            }
+        }
+        return null;
+    }
+
+
 
     public static void wait(int secs) {
         try {
